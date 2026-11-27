@@ -1,1 +1,0 @@
-Put the screenshots here: train_loss.png (training graphs of triage-run10) and settings.png (its settings in Unsloth Studio).
