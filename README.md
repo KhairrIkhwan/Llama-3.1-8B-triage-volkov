@@ -234,9 +234,13 @@ python scripts/auto_eval.py --test data/eval.jsonl --out results
 }
 ```
 
-## Acknowledgements
-Unsloth AI (Unsloth Studio) · Meta AI (Llama 3.1) · Course instructors and starter dataset authors
 
-## Authors
-- <Your Full Name> (GitHub: [<your-github-handle>](https://github.com/<your-github-handle>))
-- <Teammate Full Name> (GitHub: [<teammate-github-handle>](https://github.com/<teammate-github-handle>))
+## Acknowledgements
+- Big thanks to our awesome (and super cute!) instructor, **Miss Hui Voon**, for guiding us step by step through fine-tuning and always patiently helping us troubleshoot whenever we got stuck.
+- Huge shoutout to my incredible teammate **Muhammad Hariz** for the late-night brainstorming, dataset grinding, and keeping the momentum going until we hit 76% on the leaderboard!
+- Built with [Unsloth](https://unsloth.ai) on top of Meta's Llama 3.1 8B Instruct.
+
+## Team
+
+- Muhammad Hariz Bin Zulkarnain (GitHub: Hariz-is-Here)
+- Muhammad Khairul Ikhwan Bin Mohd Iqbal (GitHub: KhairrIkhwan)
